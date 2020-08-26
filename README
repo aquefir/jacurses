@@ -1,0 +1,11 @@
+*****
+
+jacurses
+
+curses-like terminal UI support library for djacarta
+forked from nfs’s termbox project
+
+Copyright © 2020 Aquefir
+Released under BSD-2-Clause.
+
+*****
